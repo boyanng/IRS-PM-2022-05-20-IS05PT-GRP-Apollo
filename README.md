@@ -18,7 +18,7 @@ As such, with reference to the adverse effects of the recent COVID-19 pandemic a
 
 ---
 
-## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+## SECTION 3 : PROJECT CONTRIBUTION
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
@@ -96,7 +96,7 @@ Web is served on http://127.0.0.1:8050/
 
 
 ---
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 6 : PROJECT REPORT 
 
 `Refer to project report at Github Folder: ProjectReport`
 
@@ -104,3 +104,6 @@ Web is served on http://127.0.0.1:8050/
 ---
 
 
+## SECTION 7 : Miscellaneous
+
+1. ASEANStatsData.csv - Data used to populate travellors network graph
